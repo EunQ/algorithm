@@ -3,6 +3,7 @@ using namespace std;
 bool isBounded(int x, int y){
     if(0<= x && x <= 10 ){
         if(0<=y && y<= 10){
+            
             return true;
         }
     }
