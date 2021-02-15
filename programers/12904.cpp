@@ -29,12 +29,3 @@ int solution(string s)
     return answer;
 }
 
-
-#include <iostream>
-int main(){
-
-    int ans = solution("aaaa");
-
-    cout << ans << endl;
-    return 0;
-}
